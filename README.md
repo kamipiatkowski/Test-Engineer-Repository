@@ -1,0 +1,2 @@
+# TesterManualny
+Repozytorium testowania manualnego
